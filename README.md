@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yousef Elgendy</h1>
 
 
-+ 3rd year computer science student @ Zagazig university
++ 3rd year IT student @ Zagazig university
 + Mentor @ <a href="https://icpczagazig.org/">ICPC Zagazig Comumnity</a>
 
 
